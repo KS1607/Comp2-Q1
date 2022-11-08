@@ -1,5 +1,5 @@
 # Comp2-Q1
-CM1705 GA Programming
+Question: Why is a Version Control System useful when developing software both as an individual developer and as part of a development team?
 
 When using a simplistic method of version control such as saving copies of files after changes have been made can work for very basic individually completed projects however, it can lead to confusion especially when projects are scaled up. Using a version control system is a way to overcome these issues. 
 Version control systems such as Github allow for multiple programmers to make changes to code which then are kept separate until merged and any conflicts would be highlighted for the owner of the code to review and decide which to accept. This would be much more difficult if each developer took an individual copy of the code and made changes in different programs as to put it together again would result in a large amount of manual intervention and with this the risk of errors increases. 
