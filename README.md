@@ -1,6 +1,3 @@
-# Comp2-Q1
-Question: Why is a Version Control System useful when developing software both as an individual developer and as part of a development team?
-
   Version control systems are needed in coding at all levels and there are a number of ways this can be done.  The differences between GitHub and saving files with different names, referred to as “file saving version control” going forwards, will be analysed. 
 
   Using File saving version control needs no additional software and all users are familiar with this concept whereas when using GitHub, it requires the user to learn how this works and gain experience in doing so. Other colleagues, such as managers, may not be able to access the work if they are not familiar with the system being used making it difficult to monitor progress. However, this drawback can be overcome with some basic training and descriptive notes on the system for any new users. Inversely, by using an industry standard tool rather than creating your own way of maintaining version controls makes it more likely that all developers have access to and are familiar with the tool irrespective of where they are based or their background.
